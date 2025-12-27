@@ -4,7 +4,7 @@
 - Internship Platform: Uptricks
 - Project Type: Machine Learning
 - Project Title: Credit Card Fraud Detection
-- Author: Anu
+- Author: Anusha
 
 ## Project Description
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques. 
